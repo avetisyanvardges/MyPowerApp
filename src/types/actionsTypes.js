@@ -1,0 +1,1 @@
+export const SET_INTRO_SLIDES = 'SET_INTRO_SLIDES';
